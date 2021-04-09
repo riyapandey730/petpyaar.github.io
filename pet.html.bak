@@ -1,0 +1,107 @@
+<html>
+<title>
+PETpyaar
+</title>
+<style>
+.bgimage
+{
+background-image:url("bgg.jpg"); 
+background-size:cover;
+font-family:cursive;
+font-size:25px;
+}
+h1{
+font-size:55px;
+margin-left:40px;
+padding:0px;
+margin:0px;
+color:white;
+margin-top:-16px;
+}
+h1 sub{
+font-size:45px;
+}
+ul
+{
+margin:50px;
+margin-left:80px;
+}
+ul li
+{
+list-style:none;
+background-color:#ffcc80;
+border:3px solid white;
+width:130px;
+height:50px;
+text-align:center;
+line-height:30px;
+float:left;
+}
+ul li a
+{
+color:white;
+text-decoration:none;
+}
+.active, ul li a:hover
+{
+color:black;
+}
+ul li ul li 
+{
+margin:21px;
+margin-left:-123px;
+margin-top:-26.2px;
+}
+
+h5
+{
+color:white;
+font-size:30px;
+text-align:center;
+}
+h4
+{
+color:white;
+font-family:cursive;
+font-size:50px;
+text-align:center;
+}
+</style>
+<body class="bgimage">
+<h1>PET<sub>pyaar</sub></h1>
+<ul>
+<li class="active"><a href="#">HOME</a></li>
+<li><a href="#">help</a></li>
+<li><a href="#">grooming</a></li>
+<li><a href="#">login</a></li>
+<li><a href="#">breed</a>
+<ul>
+<li><a href="dog.html">Dog</a></li>
+<li><a href="#">Cat</a></li>
+<li><a href="#">Birds</a></li>
+</ul>
+</li>
+<li><a href="#">service</a></li>
+<li><a href="#">contact</a></li>
+<li><a href="#">sign in</a></li>
+</ul>
+<br><br><br>
+<h4>love & adopt pet</h4>
+<br>
+<h5>"A pet is the only thing on earth
+to loves you more than yourself"</h5>
+<script type="text/javascript">
+var r=new Date();
+document.write(tarik(r));
+function tarik(p)
+{
+	var date= r.getDate();
+	var year=r.getFullYear();
+	var month=r.getMonth();
+	month++;
+	return date+"-"+month+"-"+year;
+	}
+	</script>
+
+ </body>
+</html>

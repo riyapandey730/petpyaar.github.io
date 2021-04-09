@@ -1,0 +1,241 @@
+<html>
+<title> 
+PETpyaar
+</title>
+<style>
+.container{
+width:200px;
+padding:10px;
+background:white;
+height:300px;
+margin:20px;
+margin-top:5px;
+display:inline block;
+float:left;
+border:3px solid #ffcc80;
+border-radius:25px;
+}
+.header{
+background-color:#ffcc80;
+opacity:0.5;
+filter:alpha(opacity=50);
+height:100px;
+width:100%;
+font-family;
+
+}
+.header a{
+text-decoration:none;
+float:right;
+margin-top:16px;
+font-size:30px;
+color:black
+}
+.header h4{
+margin-top:-4px;
+font-size:51px;
+}
+.header h6{
+margin-top:-140px;
+text-align:center;
+font-size:15px;
+}
+.boxx h5
+{
+font-family:cursive;
+font-size:20px;
+}
+.boxx a
+{
+text-decoration:none;
+display:inline block;
+height:700px;
+width:700px;
+border:3px solid #ffcc80;
+border-radius:25px;
+background:white;
+}
+</style>
+<body bgcolor="ffcc80">
+<div class="header">
+<a href="#">Login in</a>
+<h4>PET<sub>pyaar</sub></h4>
+<h6>love & adopt pet....</h6>
+</div>
+<div class="container">
+<img src="1306930480-H.jpg" height="180px" width="190px" >
+BREED: Maine Coon<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="American-Bobtail-300x168.jpg" height="180px" width="190px" >
+BREED:Botail Cat<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="bombay-cat-300x176.jpg" height="180px" width="190px" >
+BREED: Bombay Cat<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Bengal_Cat.jpg" height="180px" width="190px" >
+BREED:Bengal Cat<br>
+AGE: young<br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Himalayan.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+
+<div class="container">
+<img src="siamese-300x177.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="440190952-H.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="stray-cat-2-300x267.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="The-spotted-Cat-300x210.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Himalayan.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="american-curl-card-large-1.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Abyssinian_body_7.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="187x140_Nino.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="187x140_Flash.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="persian-cat-300x300.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="bombay-cat-300x176.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:iv class="container">
+
+</div>
+<div class="container">
+<img src="220px-IndioCat.jpg" height="180px" width="190px" >
+BREED:American shorthair<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="american-shorthair-card-large.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Javanese_body_6.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="burmese-card-large.jpg" height="180px" width="190px" >
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<center>
+<div class="boxx">
+<h5>To get the latest on pet adoption and pet care,sign up
+<a href="">Sign in</a>
+<br>
+For caring,DONATE now
+<a href="">Donate</a>
+<br>
+Helped,when they injured
+<a href="">helped</a>
+</h5>
+</div>
+</center>
+</body>
+</html>

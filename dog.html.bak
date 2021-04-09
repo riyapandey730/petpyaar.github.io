@@ -1,0 +1,199 @@
+<html>
+<title> 
+PETpyaar
+</title><link rel="stylesheet" type="text/CSS" href="style2.CSS">
+<body bgcolor="#ffcc80">
+<div class="header">
+<a href="#">Help Us</a>
+<h4>PET<sub>pyaar</sub></h4>
+<h6>love & adopt pet....</h6>
+</div><b>
+<div class="container">
+<img src="dog10.jpg" height="180px" width="190px" >
+<br><br>
+BREED:<br>
+AGE: <br>
+COLOR:<br>
+RS:
+</div>
+<div class="container">
+<img src="bull-dog.jpg" height="180px" width="190px">
+<br><br>
+BREED:bull-dog<br>
+AGE: <br>
+COLOR:<br>
+kg: 30-35kg<br>
+RS:<br><br>
+<center>
+<a href="buy.html">BUY</a>
+</center>
+</div>
+<div class="container">
+<img src="boxer.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="german.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Chow-Chow.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Saluki.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+
+<div class="container">
+<img src="doberman.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="dalmation.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Bull-Mastiff.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="spitz.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="cane-corso.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Dogue-de-Bordeaux.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="dogo-argentino.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Rottweiler.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Dachshund.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="Labrador-Image.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="cocker-e1523535866384.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="golden_retriever1-e1523535817956.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="pug.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+</div>
+<div class="container">
+<img src="beagle2-e1523513313893.jpg" height="180px" width="190px" >
+<br><br>
+BREED: boxer<br>
+AGE: <br>
+COLOR:<br>
+kg: 25-27kg<br>
+RS:
+
+</div>
+<b>Comment....
+<textarea rows="5" cols="30">
+</textarea>
+</body>
+</html>

@@ -1,0 +1,40 @@
+.container{
+width:200px;
+padding:10px;
+background:#ffffff;
+height:330px;
+margin:20px;
+margin-top:5px;
+display:inline block;
+float:left;
+border:3px solid #ffcc80;
+border-radius:25px;
+}
+.header{
+background-color:#ffcc80;
+height:100px;
+width:100%;
+margin-top:-7px;
+font-family:cursive;
+padding:0px 0px;
+}
+.header a{
+text-decoration:none;
+float:right;
+margin-top:16px;
+font-size:30px;
+color:black
+}
+.header h4{
+margin-top:-4px;
+font-size:55px;
+}
+.header h6{
+margin-top:-150px;
+text-align:center;
+font-size:15px;
+}
+.container a
+{
+text-align:center;
+}
